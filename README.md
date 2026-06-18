@@ -92,7 +92,7 @@ python src/etl.py
 ```
 
 ### Step 2: Fit Baseline Econometric Model (TWFE)
-Truncates the estimation matrix to the optimized $\pm14$ days timeframe, runs the high-dimensional PanelOLS regression with heteroskedasticity-robust standard errors, and charts the high-resolution dynamic causal trend plot[cite: 2].
+Truncates the estimation matrix to the optimized $\pm21$ days timeframe, runs the high-dimensional PanelOLS regression with heteroskedasticity-robust standard errors, and charts the high-resolution dynamic causal trend plot[cite: 2].
 ```bash
 python src/modeling.py
 ```
