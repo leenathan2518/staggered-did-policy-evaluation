@@ -1,0 +1,8 @@
+# 屏蔽逆向破解爬虫脚本（含加密逻辑与Cookie）
+
+src/crack.py
+
+.venv/
+__pycache__/
+*.pyc
+
