@@ -166,7 +166,7 @@ Running the pipeline against the fully processed multi-regional dataset yields h
 | Beijing | 18.42 | Zhejiang | 44.80 |
 | Guangdong | 27.86 | Hubei | 27.34 |
 | Shanghai | 29.19 | Henan | 26.69 |
-| Sichuan | 40.84 | — | — |
+| Sichuan | 40.84 | Shandong | 29.05 |
 
 **Range**: [18.42, 44.80] — all coefficients remain positive, with no sign reversal or extreme outlier-driven results.
 
